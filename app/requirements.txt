@@ -1,4 +1,11 @@
 flask
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+matplotlib
+pandas
 pickle
 numpy
 sklearn
