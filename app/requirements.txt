@@ -6,6 +6,5 @@ MarkupSafe
 Werkzeug
 matplotlib
 pandas
-pickle
 numpy
 sklearn
